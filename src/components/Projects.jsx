@@ -24,7 +24,7 @@ const projects = [
     description:
       "A machine learning-driven web application for crop and fertilizer recommendations using soil, weather, and crop data. Built a responsive React frontend and integrated a backend powered by a Random Forest model for accurate predictive insights.",
     tech: ["React", "Node.js", "MongoDB", "Machine Learning"],
-    github: "https://github.com/Itzmeyash-1/Agri-Ai-frontend", 
+    github: "https://github.com/Itzmeyash-1/agri_ai_frontend", 
   },
 ];
 
